@@ -165,7 +165,7 @@ DataCo-Supply-Chain-Analytics/
 │   └── 04_Exploratory_Data_Analysis.ipynb
 │
 ├── sql/
-│   └── 05_SQL_analysis
+│   └── 05_SQL_analysis.sql
 │
 ├── powerbi/
 │   └── 06_Supply_Chain_Dashboard.pbix
