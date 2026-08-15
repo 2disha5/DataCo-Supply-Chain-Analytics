@@ -168,10 +168,10 @@ DataCo-Supply-Chain-Analytics/
 │   └── 05_SQL_analysis
 │
 ├── powerbi/
-│   └── 06_Supply_Chain_Dashboard (.pbix)
+│   └── 06_Supply_Chain_Dashboard.pbix
 │
 ├── report/
-│   └── 07_DataCo_Supply_Chain_Business_Report (.pdf)
+│   └── 07_DataCo_Supply_Chain_Business_Report.pdf
 │
 └── README.md
 ```
