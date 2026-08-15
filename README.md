@@ -155,6 +155,7 @@ The analysis resulted in six major recommendations:
 
 ## Project Structure
 
+```text
 DataCo-Supply-Chain-Analytics/
 │
 ├── notebooks/
@@ -173,7 +174,7 @@ DataCo-Supply-Chain-Analytics/
 │   └── 07_DataCo_Supply_Chain_Business_Report (.pdf)
 │
 └── README.md
-
+```
 Data Limitations
 - The dataset is historical rather than live operational data.
 - The late-period revenue decline may be affected by changing data coverage.
