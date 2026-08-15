@@ -175,13 +175,13 @@ DataCo-Supply-Chain-Analytics/
 │
 └── README.md
 ```
-Data Limitations
+## Data Limitations
 - The dataset is historical rather than live operational data.
 - The late-period revenue decline may be affected by changing data coverage.
 - Observational analysis identifies associations but does not establish causality.
 - The source data contains order-item records rather than one row per order.
 - Delivery metrics depend on the underlying analytical grain.
 - This project focuses on descriptive and diagnostic analytics rather than predictive modeling.
-- Project Outcome
 
+## Project Outcome
 This project demonstrates an end-to-end data analytics workflow, combining Python, PostgreSQL, and Power BI to transform raw supply-chain data into business insights and actionable recommendations.
